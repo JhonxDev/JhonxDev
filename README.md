@@ -27,9 +27,9 @@
 <hr>
 <br>
 
-- <section><a href="https://www.linkedin.com/in/jhonatanborba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-label" ></a></section>
+- <section><a href="https://www.linkedin.com/in/jhonatanborba/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-label" ></a></section>
 
-- <section><a href="https://www.instagram.com/jhoonborba/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta-label" ></a></section> 
+- <section><a href="https://www.instagram.com/jhoonborba/?hl=en" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="insta-label" ></a></section> 
 
 <br>
 <br>
